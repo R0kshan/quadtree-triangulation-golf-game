@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.0.1" timestamp="2018-04-29T09:55:46.374">
+<file name="/home/roxanekang/Github/GolfGame/GolfGame/src/main/java/rkm/project/golfgame/GameInterface.java">
+<violation beginline="519" endline="521" begincolumn="18" endcolumn="13" rule="EmptyIfStmt" ruleset="Error Prone" package="rkm.project.golfgame" class="GameInterface$OpenActionListener" method="actionPerformed" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_errorprone.html#emptyifstmt" priority="3">
+Avoid empty if statements
+</violation>
+</file>
+<file name="/home/roxanekang/Github/GolfGame/GolfGame/src/main/java/rkm/project/golfgame/GolfBall.java">
+<violation beginline="176" endline="176" begincolumn="13" endcolumn="42" rule="UselessParentheses" ruleset="Code Style" package="rkm.project.golfgame" class="GolfBall" method="calculateNextLandingPoint" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="176" endline="176" begincolumn="49" endcolumn="71" rule="UselessParentheses" ruleset="Code Style" package="rkm.project.golfgame" class="GolfBall" method="calculateNextLandingPoint" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="180" endline="180" begincolumn="23" endcolumn="71" rule="UselessParentheses" ruleset="Code Style" package="rkm.project.golfgame" class="GolfBall" method="calculateNextLandingPoint" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="192" endline="192" begincolumn="90" endcolumn="94" rule="UselessParentheses" ruleset="Code Style" package="rkm.project.golfgame" class="GolfBall" method="calculateNextLandingPoint" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="193" endline="193" begincolumn="90" endcolumn="94" rule="UselessParentheses" ruleset="Code Style" package="rkm.project.golfgame" class="GolfBall" method="calculateNextLandingPoint" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="/home/roxanekang/Github/GolfGame/GolfGame/src/main/java/rkm/project/golfgame/Line.java">
+<violation beginline="131" endline="131" begincolumn="59" endcolumn="69" rule="UselessParentheses" ruleset="Code Style" package="rkm.project.golfgame" class="Line" method="intersectionPoint" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="/home/roxanekang/Github/GolfGame/GolfGame/src/main/java/rkm/project/golfgame/Point.java">
+<violation beginline="85" endline="85" begincolumn="13" endcolumn="59" rule="UselessParentheses" ruleset="Code Style" package="rkm.project.golfgame" class="Point" method="halfSpace" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="109" endline="109" begincolumn="13" endcolumn="68" rule="UselessParentheses" ruleset="Code Style" package="rkm.project.golfgame" class="Point" method="halfSpaceSeg" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="138" endline="138" begincolumn="24" endcolumn="41" rule="OverrideBothEqualsAndHashcode" ruleset="Error Prone" package="rkm.project.golfgame" class="Point" method="equals" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_errorprone.html#overridebothequalsandhashcode" priority="3">
+Ensure you override both equals() and hashCode()
+</violation>
+<violation beginline="139" endline="139" begincolumn="25" endcolumn="44" rule="UselessParentheses" ruleset="Code Style" package="rkm.project.golfgame" class="Point" method="equals" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="139" endline="139" begincolumn="51" endcolumn="74" rule="UselessParentheses" ruleset="Code Style" package="rkm.project.golfgame" class="Point" method="equals" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="139" endline="139" begincolumn="81" endcolumn="104" rule="UselessParentheses" ruleset="Code Style" package="rkm.project.golfgame" class="Point" method="equals" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="/home/roxanekang/Github/GolfGame/GolfGame/src/main/java/rkm/project/golfgame/PolygonSurface.java">
+<violation beginline="42" endline="42" begincolumn="20" endcolumn="28" rule="UnusedPrivateField" ruleset="Best Practices" package="rkm.project.golfgame" class="PolygonSurface" variable="colorName" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_bestpractices.html#unusedprivatefield" priority="3">
+Avoid unused private fields such as 'colorName'.
+</violation>
+<violation beginline="168" endline="171" begincolumn="16" endcolumn="15" rule="CollapsibleIfStatements" ruleset="Design" package="rkm.project.golfgame" class="PolygonSurface" method="golfGroundTriangulation" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_design.html#collapsibleifstatements" priority="3">
+These nested if statements could be combined
+</violation>
+</file>
+<file name="/home/roxanekang/Github/GolfGame/GolfGame/src/main/java/rkm/project/golfgame/QuadTree.java">
+<violation beginline="292" endline="295" begincolumn="21" endcolumn="21" rule="CollapsibleIfStatements" ruleset="Design" package="rkm.project.golfgame" class="QuadTree" method="intersectsTriangle" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_design.html#collapsibleifstatements" priority="3">
+These nested if statements could be combined
+</violation>
+<violation beginline="410" endline="410" begincolumn="17" endcolumn="116" rule="UselessParentheses" ruleset="Code Style" package="rkm.project.golfgame" class="QuadTree" method="regionContainsPoint" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="419" endline="419" begincolumn="17" endcolumn="120" rule="UselessParentheses" ruleset="Code Style" package="rkm.project.golfgame" class="QuadTree" method="regionHasPoint" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="/home/roxanekang/Github/GolfGame/GolfGame/src/main/java/rkm/project/golfgame/Segment.java">
+<violation beginline="132" endline="132" begincolumn="17" endcolumn="57" rule="UselessParentheses" ruleset="Code Style" package="rkm.project.golfgame" class="Segment" method="containsPoint" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="132" endline="132" begincolumn="64" endcolumn="104" rule="UselessParentheses" ruleset="Code Style" package="rkm.project.golfgame" class="Segment" method="containsPoint" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="132" endline="132" begincolumn="111" endcolumn="151" rule="UselessParentheses" ruleset="Code Style" package="rkm.project.golfgame" class="Segment" method="containsPoint" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="132" endline="132" begincolumn="158" endcolumn="198" rule="UselessParentheses" ruleset="Code Style" package="rkm.project.golfgame" class="Segment" method="containsPoint" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="/home/roxanekang/Github/GolfGame/GolfGame/src/main/java/rkm/project/golfgame/Triangle.java">
+<violation beginline="36" endline="36" begincolumn="19" endcolumn="23" rule="UnusedPrivateField" ruleset="Best Practices" package="rkm.project.golfgame" class="Triangle" variable="color" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_bestpractices.html#unusedprivatefield" priority="3">
+Avoid unused private fields such as 'color'.
+</violation>
+<violation beginline="122" endline="122" begincolumn="17" endcolumn="41" rule="UselessParentheses" ruleset="Code Style" package="rkm.project.golfgame" class="Triangle" method="testTriangleContainsPoint" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+</pmd>
