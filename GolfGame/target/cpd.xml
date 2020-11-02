@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <duplication lines="11" tokens="116">
+      <file line="673"
+            path="/home/roxanekang/Github/GolfGame/GolfGame/src/main/java/rkm/project/golfgame/GameInterface.java"/>
+      <file line="699"
+            path="/home/roxanekang/Github/GolfGame/GolfGame/src/main/java/rkm/project/golfgame/GameInterface.java"/>
+      <codefragment><![CDATA[    class CalcLineCoeffsActionListener implements ActionListener {
+         @Override
+        public void actionPerformed(ActionEvent e) {
+            
+            if (!inputLine1X1.getText().isEmpty() && !inputLine1Y1.getText().isEmpty() && !inputLine1X2.getText().isEmpty() && !inputLine1Y2.getText().isEmpty()) {
+
+                // Get the line's starting and ending point coordinates from the input field
+                float l1X1 = Float.parseFloat(inputLine1X1.getText());
+                float l1Y1 = 10-Float.parseFloat(inputLine1Y1.getText());
+                float l1X2 = Float.parseFloat(inputLine1X2.getText());
+                float l1Y2 = 10-Float.parseFloat(inputLine1Y2.getText());]]></codefragment>
+   </duplication>
+</pmd-cpd>
